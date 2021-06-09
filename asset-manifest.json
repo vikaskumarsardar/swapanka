@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swapanka/static/css/main.5dff3ce6.chunk.css",
+    "main.js": "/swapanka/static/js/main.48292a2c.chunk.js",
+    "main.js.map": "/swapanka/static/js/main.48292a2c.chunk.js.map",
+    "runtime-main.js": "/swapanka/static/js/runtime-main.1ac82c2f.js",
+    "runtime-main.js.map": "/swapanka/static/js/runtime-main.1ac82c2f.js.map",
+    "static/js/2.0a7f4076.chunk.js": "/swapanka/static/js/2.0a7f4076.chunk.js",
+    "static/js/2.0a7f4076.chunk.js.map": "/swapanka/static/js/2.0a7f4076.chunk.js.map",
+    "static/js/3.449f651c.chunk.js": "/swapanka/static/js/3.449f651c.chunk.js",
+    "static/js/3.449f651c.chunk.js.map": "/swapanka/static/js/3.449f651c.chunk.js.map",
+    "index.html": "/swapanka/index.html",
+    "static/css/main.5dff3ce6.chunk.css.map": "/swapanka/static/css/main.5dff3ce6.chunk.css.map",
+    "static/js/2.0a7f4076.chunk.js.LICENSE.txt": "/swapanka/static/js/2.0a7f4076.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac82c2f.js",
+    "static/js/2.0a7f4076.chunk.js",
+    "static/css/main.5dff3ce6.chunk.css",
+    "static/js/main.48292a2c.chunk.js"
+  ]
+}
